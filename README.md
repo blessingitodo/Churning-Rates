@@ -27,7 +27,7 @@ The key components of the project include:
   - `sum_canceled`: Total cancellations per segment.
 4. **Churn Rate Analysis**
   - **Churn Rate Calculation:** The project computes the churn rate for each segment by dividing the number of cancellations by the active subscriptions for a given month:
-              **Churn Rate** = \frac{Cancellations}{Active Subscriotions}
+              Churn Rate = Cancellations/Active Subscriptions
   - **Segment Comparison:** Churn rates are analyzed across segments and months to identify trends and segments with higher cancellation risks.
 
 ### Goals and Outcomes:
